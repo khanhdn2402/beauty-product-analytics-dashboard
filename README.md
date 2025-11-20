@@ -42,14 +42,15 @@ These visuals provided insight into petterns, variance, abd clustering behaviors
 ### Key insights Extraction
 The final step involved synthesizing the findings from all five visualizations to form actionable insights about customer behavior, product performance, and brand strategy.
 ## Key Takeaways
+![Alt Text](image-file-name.png)
 ### ⭐ Most Popular Product Categories
 Serum, Face Oil, Mascara, and Highlighter receive the highest total review counts, indiacting strong consumer demand and daily-use relevance.
-
 ![Category Popularity](Category Popularity.png)
 ### ⭐ Top-Performing Brands
 Brands such as NARS, Milk Makeup, KVD Beauty, Glossier, and Kiehl's show consistenly high engagement.
 
 These brands dominate review volume, suggesting effective marketing and strong brand loyalty.
+![Brand Trends](Brand Trends.png)
 ### ⭐ Ratings Do Not Gurantee Popularity
 Products with ratings between **3.6 and 4.2** tend to have the highest review counts.
 
