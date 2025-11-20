@@ -44,7 +44,7 @@ The final step involved synthesizing the findings from all five visualizations t
 ## Key Takeaways
 ### ⭐ Most Popular Product Categories
 Serum, Face Oil, Mascara, and Highlighter receive the highest total review counts, indiacting strong consumer demand and daily-use relevance.
-![image alt](<img width="1442" height="1200" alt="image" src="https://github.com/user-attachments/assets/2c5f666c-d6b2-48b4-8600-7d2454f51131" />)
+![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Category%20Popularity.png?raw=true)
 
 ### ⭐ Top-Performing Brands
 Brands such as NARS, Milk Makeup, KVD Beauty, Glossier, and Kiehl's show consistenly high engagement.
