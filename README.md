@@ -50,20 +50,22 @@ Serum, Face Oil, Mascara, and Highlighter receive the highest total review count
 Brands such as NARS, Milk Makeup, KVD Beauty, Glossier, and Kiehl's show consistenly high engagement.
 
 These brands dominate review volume, suggesting effective marketing and strong brand loyalty.
-![Brand Trends](Brand Trends.png)
+![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Brand%20Trends.png?raw=true)
 ### ⭐ Ratings Do Not Gurantee Popularity
 Products with ratings between **3.6 and 4.2** tend to have the highest review counts.
 
 Perfect 5.0 products are **not** the most popular - suggesting visibility, reputation, and social influence matter more than rating alone.
+![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Rating%20vs%20Popularity.png?raw=true)
 ### ⭐ Luxury vs. Non-Luxury Ratings
 * Luxury products show **higher viriability** - some very high ratings but also more low-rated outliers
 * Non-luxury products have **more consistent** ratings overall
 * Average ratings between the two tiers are suprisingly close
 
 This suggests luxury brnding does not always translate to superior customer satisfaction.
+![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Luxury%20vs%20Non-Luxury%20Ratings.png?raw=true)
 ### ⭐ Skincare vs. Makeup Loyalty
 Customer loyalty (Usage Score) is nearly identical:
 * Skincare: **3.50**
 * Makeup: **3.49**
-
+![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Luxury%20vs%20Non-Luxury%20Ratings.png?raw=true)
 Customers appear equally committed to both categories, using each category consistenly on weekly and daily cycles.
