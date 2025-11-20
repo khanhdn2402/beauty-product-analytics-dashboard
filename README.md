@@ -45,7 +45,6 @@ The final step involved synthesizing the findings from all five visualizations t
 ### ⭐ Most Popular Product Categories
 Serum, Face Oil, Mascara, and Highlighter receive the highest total review counts, indiacting strong consumer demand and daily-use relevance.
 ![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Category%20Popularity.png?raw=true)
-
 ### ⭐ Top-Performing Brands
 Brands such as NARS, Milk Makeup, KVD Beauty, Glossier, and Kiehl's show consistenly high engagement.
 
@@ -67,5 +66,6 @@ This suggests luxury brnding does not always translate to superior customer sati
 Customer loyalty (Usage Score) is nearly identical:
 * Skincare: **3.50**
 * Makeup: **3.49**
-![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Luxury%20vs%20Non-Luxury%20Ratings.png?raw=true)
+
 Customers appear equally committed to both categories, using each category consistenly on weekly and daily cycles.
+![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Luxury%20vs%20Non-Luxury%20Ratings.png?raw=true)
