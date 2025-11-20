@@ -60,7 +60,7 @@ Perfect 5.0 products are **not** the most popular - suggesting visibility, reput
 * Non-luxury products have **more consistent** ratings overall
 * Average ratings between the two tiers are suprisingly close
 
-This suggests luxury brnding does not always translate to superior customer satisfaction.
+This suggests luxury branding does not always translate to superior customer satisfaction.
 ![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Luxury%20vs%20Non-Luxury%20Ratings.png?raw=true)
 ### ⭐ Skincare vs. Makeup Loyalty
 Customer loyalty (Usage Score) is nearly identical:
