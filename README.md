@@ -1,4 +1,4 @@
-# Project Name: Beauty Prodcut Analytics Dashboard (Tableau Visualization Project)
+# Project Name: Beauty Product Analytics Dashboard (Tableau Visualization Project)
 ## 1. Overview
 **Beauty Product Analytics Dashboard** is a data-driven project aimed at exploring key factors that influence consumer behavior in the beauty and cosmetics market. Using a dataset of skincare and makeup products, this project analyzes product popularity, brand performance, rating distribution, and customer loyalty indicators.
 
