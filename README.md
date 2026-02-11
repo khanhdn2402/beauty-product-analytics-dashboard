@@ -68,4 +68,5 @@ Customer loyalty (Usage Score) is nearly identical:
 * Makeup: **3.49**
 
 Customers appear equally committed to both categories, using each category consistenly on weekly and daily cycles.
+
 ![image alt](https://github.com/khanhdn2402/beauty-product-analytics-dashboard/blob/main/Skincare%20and%20Makeup%20Loyalty.png?raw=true)
